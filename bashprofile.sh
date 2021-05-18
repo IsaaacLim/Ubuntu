@@ -1,8 +1,7 @@
 #!/bin/sh
 
-echo "#!/usr/bin/env bash" >> ~/.bash_profile
+echo "#!/usr/bin/env bash" > ~/.bash_profile
 echo "source ~/.bash_prompt" >> ~/.bash_profile #For maintainability
-echo Remove duplicated lines in ~/.bash_profile
 
 echo '#!/usr/bin/env bash
 
