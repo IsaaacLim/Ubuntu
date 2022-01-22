@@ -2,4 +2,4 @@
 
 My first time getting into C programming.
 
-Till getting used to computer sciense and unix and github
+At this moment, I was still getting used to computer sciense and unix and github
